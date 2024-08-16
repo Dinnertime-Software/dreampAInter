@@ -1,0 +1,22 @@
+{
+  "name": "dreampainter",
+  "version": "1.0.0",
+  "description": "\"AI\" drawing dreams",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dinnertime-Software/dreampAInter.git"
+  },
+  "author": "Dinnertime Software",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dinnertime-Software/dreampAInter/issues"
+  },
+  "homepage": "https://github.com/Dinnertime-Software/dreampAInter#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
